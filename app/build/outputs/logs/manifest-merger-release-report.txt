@@ -1,0 +1,226 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:2:1-47:12
+MERGED from [com.android.support:support-v13:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/70b1944bbaae152a53355383ce90c088/support-v13-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/1a565d561e73523cfde93032b5e4f241/design-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:preference-v14:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/9c1464263310df67e284b5c309aeb4f1/preference-v14-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.johnpersano:supertoasts:2.0] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/80589bf52d2ca89a98b86961e4faa0f4/supertoasts-2.0/AndroidManifest.xml:17:1-30:12
+MERGED from [com.anthonycr.grant:permissions:1.0] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/e9d6c8121f0dc10b9619f721234ddbbd/permissions-1.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:preference-v7:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/5b701f9762c8454f771d6b437dba6891/preference-v7-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/96ec3159e9cdafe31c960eb8eede719e/appcompat-v7-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.5] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/abb133149fe832ab093e2092d7fd8327/crashlytics-2.6.5/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/c8390c608d9ebd3960e8c9af3469d9e0/constraint-layout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/b85946afde5a43ea608eda5eccc7d9e8/support-v4-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/2504c5ed5ee9545e92a6ed94245b7109/support-fragment-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/763bcc8922987161353b83ab4da2d617/animated-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/32603cb6266624d8adb9fb18c3e354e3/recyclerview-v7-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/0e4b8c4d5beadb2d153c0a2ae7561179/support-core-ui-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/9ebd575325adb4f1715cbd33cc7fb1eb/support-core-utils-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/941c23b8e283edcfbd160b204c678af9/support-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/07d39432c8967fd9e82176e2bdb9c63b/transition-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/9c0db70b5ab5bab747773bbfa20f7935/support-media-compat-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/5e395bae4e00ec017ce476404d11e882/support-compat-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.2] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/731ec0f788b5fbc6cd08b03a21809099/beta-1.2.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.14] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/e8290705af826943545ac6c70ae615ae/crashlytics-core-2.3.14/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:answers:1.3.10] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/35729f936c299463b3579d677a14b73a/answers-1.3.10/AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.3.14] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/119cf2021e443d280139138916e8816b/fabric-1.3.14/AndroidManifest.xml:18:1-29:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/1e0d6bc8ae15351e705eea926fa992b3/livedata-core-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/e29b9d9bab2be31618a2ec772979406c/viewmodel-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/2e39cb929360acecda17a30f51c91155/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/d05cd91fa0e0d00f971cc74baae16029/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:5:5-39:19
+MERGED from [com.github.johnpersano:supertoasts:2.0] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/80589bf52d2ca89a98b86961e4faa0f4/supertoasts-2.0/AndroidManifest.xml:26:5-28:38
+MERGED from [com.github.johnpersano:supertoasts:2.0] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/80589bf52d2ca89a98b86961e4faa0f4/supertoasts-2.0/AndroidManifest.xml:26:5-28:38
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.5] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/abb133149fe832ab093e2092d7fd8327/crashlytics-2.6.5/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.5] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/abb133149fe832ab093e2092d7fd8327/crashlytics-2.6.5/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/c8390c608d9ebd3960e8c9af3469d9e0/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/c8390c608d9ebd3960e8c9af3469d9e0/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.2] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/731ec0f788b5fbc6cd08b03a21809099/beta-1.2.2/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.2] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/731ec0f788b5fbc6cd08b03a21809099/beta-1.2.2/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.14] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/e8290705af826943545ac6c70ae615ae/crashlytics-core-2.3.14/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.14] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/e8290705af826943545ac6c70ae615ae/crashlytics-core-2.3.14/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.3.10] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/35729f936c299463b3579d677a14b73a/answers-1.3.10/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.3.10] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/35729f936c299463b3579d677a14b73a/answers-1.3.10/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.14] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/119cf2021e443d280139138916e8816b/fabric-1.3.14/AndroidManifest.xml:27:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.14] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/119cf2021e443d280139138916e8816b/fabric-1.3.14/AndroidManifest.xml:27:5-20
+	android:supportsRtl
+		ADDED from [com.github.johnpersano:supertoasts:2.0] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/80589bf52d2ca89a98b86961e4faa0f4/supertoasts-2.0/AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:10:9-40
+	android:name
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:6:9-42
+activity#com.michaelfotiadis.ibeaconscanner.GetAbsoluteLocation
+ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:11:9-56
+	android:name
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:11:19-54
+activity#com.michaelfotiadis.ibeaconscanner.activities.MainActivity
+ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:13:9-21:20
+	android:label
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:15:13-45
+	android:name
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:14:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.michaelfotiadis.ibeaconscanner.activities.DeviceActivity
+ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:23:9-26:78
+	android:parentActivityName
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:26:13-66
+	android:label
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:25:13-58
+	android:name
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:24:13-54
+activity#com.michaelfotiadis.ibeaconscanner.activities.ScanPreferencesActivity
+ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:27:9-30:78
+	android:parentActivityName
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:30:13-66
+	android:label
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:29:13-68
+	android:name
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:28:13-63
+meta-data#io.fabric.ApiKey
+ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:31:9-33:72
+	android:value
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:33:13-69
+	android:name
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:32:13-44
+service#com.michaelfotiadis.ibeaconscanner.services.ScanService
+ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:36:13-49
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:40:5-74
+	android:name
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:40:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:41:5-81
+	android:name
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:41:22-78
+uses-permission#com.android.alarm.permission.SET_ALARM
+ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:42:5-78
+	android:name
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:42:22-75
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:43:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.5] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/abb133149fe832ab093e2092d7fd8327/crashlytics-2.6.5/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.5] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/abb133149fe832ab093e2092d7fd8327/crashlytics-2.6.5/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.2] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/731ec0f788b5fbc6cd08b03a21809099/beta-1.2.2/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.2] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/731ec0f788b5fbc6cd08b03a21809099/beta-1.2.2/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.14] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/e8290705af826943545ac6c70ae615ae/crashlytics-core-2.3.14/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.14] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/e8290705af826943545ac6c70ae615ae/crashlytics-core-2.3.14/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.3.10] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/35729f936c299463b3579d677a14b73a/answers-1.3.10/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.3.10] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/35729f936c299463b3579d677a14b73a/answers-1.3.10/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.14] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/119cf2021e443d280139138916e8816b/fabric-1.3.14/AndroidManifest.xml:25:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.14] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/119cf2021e443d280139138916e8816b/fabric-1.3.14/AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:43:22-64
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:45:5-68
+	android:name
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:45:22-65
+uses-sdk
+INJECTED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/70b1944bbaae152a53355383ce90c088/support-v13-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/70b1944bbaae152a53355383ce90c088/support-v13-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/1a565d561e73523cfde93032b5e4f241/design-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/1a565d561e73523cfde93032b5e4f241/design-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v14:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/9c1464263310df67e284b5c309aeb4f1/preference-v14-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v14:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/9c1464263310df67e284b5c309aeb4f1/preference-v14-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.github.johnpersano:supertoasts:2.0] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/80589bf52d2ca89a98b86961e4faa0f4/supertoasts-2.0/AndroidManifest.xml:22:5-24:41
+MERGED from [com.github.johnpersano:supertoasts:2.0] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/80589bf52d2ca89a98b86961e4faa0f4/supertoasts-2.0/AndroidManifest.xml:22:5-24:41
+MERGED from [com.anthonycr.grant:permissions:1.0] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/e9d6c8121f0dc10b9619f721234ddbbd/permissions-1.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.anthonycr.grant:permissions:1.0] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/e9d6c8121f0dc10b9619f721234ddbbd/permissions-1.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:preference-v7:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/5b701f9762c8454f771d6b437dba6891/preference-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/5b701f9762c8454f771d6b437dba6891/preference-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/96ec3159e9cdafe31c960eb8eede719e/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/96ec3159e9cdafe31c960eb8eede719e/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.5] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/abb133149fe832ab093e2092d7fd8327/crashlytics-2.6.5/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.5] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/abb133149fe832ab093e2092d7fd8327/crashlytics-2.6.5/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/c8390c608d9ebd3960e8c9af3469d9e0/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/c8390c608d9ebd3960e8c9af3469d9e0/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/b85946afde5a43ea608eda5eccc7d9e8/support-v4-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/b85946afde5a43ea608eda5eccc7d9e8/support-v4-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/2504c5ed5ee9545e92a6ed94245b7109/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/2504c5ed5ee9545e92a6ed94245b7109/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/763bcc8922987161353b83ab4da2d617/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/763bcc8922987161353b83ab4da2d617/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/32603cb6266624d8adb9fb18c3e354e3/recyclerview-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/32603cb6266624d8adb9fb18c3e354e3/recyclerview-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/0e4b8c4d5beadb2d153c0a2ae7561179/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/0e4b8c4d5beadb2d153c0a2ae7561179/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/9ebd575325adb4f1715cbd33cc7fb1eb/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/9ebd575325adb4f1715cbd33cc7fb1eb/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/941c23b8e283edcfbd160b204c678af9/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/941c23b8e283edcfbd160b204c678af9/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/07d39432c8967fd9e82176e2bdb9c63b/transition-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/07d39432c8967fd9e82176e2bdb9c63b/transition-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/9c0db70b5ab5bab747773bbfa20f7935/support-media-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/9c0db70b5ab5bab747773bbfa20f7935/support-media-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/5e395bae4e00ec017ce476404d11e882/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/5e395bae4e00ec017ce476404d11e882/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.crashlytics.sdk.android:beta:1.2.2] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/731ec0f788b5fbc6cd08b03a21809099/beta-1.2.2/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.2] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/731ec0f788b5fbc6cd08b03a21809099/beta-1.2.2/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.14] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/e8290705af826943545ac6c70ae615ae/crashlytics-core-2.3.14/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.14] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/e8290705af826943545ac6c70ae615ae/crashlytics-core-2.3.14/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.3.10] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/35729f936c299463b3579d677a14b73a/answers-1.3.10/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.3.10] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/35729f936c299463b3579d677a14b73a/answers-1.3.10/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.14] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/119cf2021e443d280139138916e8816b/fabric-1.3.14/AndroidManifest.xml:23:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.14] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/119cf2021e443d280139138916e8816b/fabric-1.3.14/AndroidManifest.xml:23:5-43
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/1e0d6bc8ae15351e705eea926fa992b3/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/1e0d6bc8ae15351e705eea926fa992b3/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/e29b9d9bab2be31618a2ec772979406c/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/e29b9d9bab2be31618a2ec772979406c/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/2e39cb929360acecda17a30f51c91155/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/2e39cb929360acecda17a30f51c91155/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/d05cd91fa0e0d00f971cc74baae16029/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/d05cd91fa0e0d00f971cc74baae16029/runtime-1.1.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml

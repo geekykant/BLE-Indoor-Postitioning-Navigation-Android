@@ -1,0 +1,4 @@
+#Tue Nov 19 22:50:32 IST 2019
+base.0=/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

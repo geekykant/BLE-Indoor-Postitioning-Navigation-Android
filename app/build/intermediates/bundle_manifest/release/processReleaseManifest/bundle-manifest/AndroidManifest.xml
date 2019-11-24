@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.michaelfotiadis.ibeaconscanner"
+    android:versionCode="6"
+    android:versionName="1.2" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="27" />
+
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+
+    <application
+        android:name="com.michaelfotiadis.ibeaconscanner.BeaconApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.michaelfotiadis.ibeaconscanner.GetAbsoluteLocation" />
+        <activity
+            android:name="com.michaelfotiadis.ibeaconscanner.activities.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.michaelfotiadis.ibeaconscanner.activities.DeviceActivity"
+            android:label="@string/title_activity_device"
+            android:parentActivityName="com.michaelfotiadis.ibeaconscanner.activities.MainActivity" />
+        <activity
+            android:name="com.michaelfotiadis.ibeaconscanner.activities.ScanPreferencesActivity"
+            android:label="@string/title_activity_scan_preferences"
+            android:parentActivityName="com.michaelfotiadis.ibeaconscanner.activities.MainActivity" />
+
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="d936fe3caf46a1a4ffc49339b09d733af6a6b6b5" />
+
+        <service
+            android:name="com.michaelfotiadis.ibeaconscanner.services.ScanService"
+            android:enabled="true"
+            android:exported="false" />
+    </application>
+
+</manifest>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: uk.co.alt236:bluetooth-le-library-android:1.0.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/uk.co.alt236/bluetooth-le-library-android/1.0.0/20509edb81b61be92497cdf8984f343642956c1f/bluetooth-le-library-android-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/uk.co.alt236/bluetooth-le-library-android/1.0.0/a4084db23f2e75a4c26fe650a1179735960caad5/bluetooth-le-library-android-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/uk.co.alt236/bluetooth-le-library-android/1.0.0/7807337df1593be09c33358fcc7599df53a6119e/bluetooth-le-library-android-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

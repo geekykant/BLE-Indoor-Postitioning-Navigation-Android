@@ -1,0 +1,97 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.michaelfotiadis.ibeaconscanner"
+4    android:versionCode="6"
+5    android:versionName="1.2" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="27" />
+9-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+11-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:40:5-74
+11-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:40:22-71
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+12-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:41:5-81
+12-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:41:22-78
+13    <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
+13-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:42:5-78
+13-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:42:22-75
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:43:5-67
+14-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:43:22-64
+15    <uses-permission android:name="android.permission.BLUETOOTH" />
+15-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:45:5-68
+15-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:45:22-65
+16
+17    <application
+17-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:5:5-39:19
+18        android:name="com.michaelfotiadis.ibeaconscanner.BeaconApplication"
+18-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:6:9-42
+19        android:allowBackup="true"
+19-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:7:9-35
+20        android:icon="@mipmap/ic_launcher"
+20-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:8:9-43
+21        android:label="@string/app_name"
+21-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:9:9-41
+22        android:supportsRtl="true"
+22-->[com.github.johnpersano:supertoasts:2.0] /Users/sreekant/.gradle/caches/transforms-2/files-2.1/80589bf52d2ca89a98b86961e4faa0f4/supertoasts-2.0/AndroidManifest.xml:28:9-35
+23        android:theme="@style/AppTheme" >
+23-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:10:9-40
+24        <activity android:name="com.michaelfotiadis.ibeaconscanner.GetAbsoluteLocation" />
+24-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:11:9-56
+24-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:11:19-54
+25        <activity
+25-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:13:9-21:20
+26            android:name="com.michaelfotiadis.ibeaconscanner.activities.MainActivity"
+26-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:14:13-52
+27            android:label="@string/app_name" >
+27-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:15:13-45
+28            <intent-filter>
+28-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:16:13-20:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:17:17-69
+29-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:17:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:19:17-77
+31-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:19:27-74
+32            </intent-filter>
+33        </activity>
+34        <activity
+34-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:23:9-26:78
+35            android:name="com.michaelfotiadis.ibeaconscanner.activities.DeviceActivity"
+35-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:24:13-54
+36            android:label="@string/title_activity_device"
+36-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:25:13-58
+37            android:parentActivityName="com.michaelfotiadis.ibeaconscanner.activities.MainActivity" />
+37-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:26:13-66
+38        <activity
+38-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:27:9-30:78
+39            android:name="com.michaelfotiadis.ibeaconscanner.activities.ScanPreferencesActivity"
+39-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:28:13-63
+40            android:label="@string/title_activity_scan_preferences"
+40-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:29:13-68
+41            android:parentActivityName="com.michaelfotiadis.ibeaconscanner.activities.MainActivity" />
+41-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:30:13-66
+42
+43        <meta-data
+43-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:31:9-33:72
+44            android:name="io.fabric.ApiKey"
+44-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:32:13-44
+45            android:value="d936fe3caf46a1a4ffc49339b09d733af6a6b6b5" />
+45-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:33:13-69
+46
+47        <service
+47-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:35:9-38:40
+48            android:name="com.michaelfotiadis.ibeaconscanner.services.ScanService"
+48-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:36:13-49
+49            android:enabled="true"
+49-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:37:13-35
+50            android:exported="false" />
+50-->/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/src/main/AndroidManifest.xml:38:13-37
+51    </application>
+52
+53</manifest>

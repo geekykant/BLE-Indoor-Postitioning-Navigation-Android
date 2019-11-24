@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        app:theme="@style/AppTheme"
+        app:title="Finding Position..." />
+
+    <TextView
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Connected Device Details: " />
+
+    <TextView
+        android:textSize="16sp"
+        android:padding="10dp"
+        android:id="@+id/bt_device_details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="" />
+
+    <TextView
+        android:textSize="16sp"
+        android:padding="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Location: " />
+
+    <RelativeLayout
+        android:background="#4caf50"
+        android:layout_width="wrap_content"
+        android:layout_height="150dp"
+        android:layout_margin="10dp">
+
+        <TextView
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:padding="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="(0,2,0)"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@android:drawable/btn_radio"
+            android:elevation="3dp"
+            android:tint="#ffebee"
+            android:layout_centerInParent="true" />
+
+        <ImageView
+            android:background="#000"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:tint="#616161"
+            android:layout_centerInParent="true" />
+
+        <ImageView
+            android:background="#000"
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:tint="#616161"
+            android:layout_centerInParent="true" />
+
+        <TextView
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:padding="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="(2,2,0)"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true" />
+
+        <TextView
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:padding="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="(0,-2,0)"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+
+    <TextView
+        android:textSize="21sp"
+        android:textStyle="bold"
+        android:textColor="#4caf50"
+        android:padding="10dp"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Your Location: "
+        android:textAllCaps="true" />
+
+    <TextView
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:gravity="center_horizontal"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/answer"
+        android:padding="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textAllCaps="true" />
+</LinearLayout>

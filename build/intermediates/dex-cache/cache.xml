@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88c68e5ef7c5ace393d014c9ec5fe736b1ca55cf">
+        <dex dex="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-27.1.1_e9fc0e9e95017965a283a9c7ac9bd3093983d9ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2feadd535770271ca57b7b431f42151aa4af324a">
+        <dex dex="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-27.1.1_148920b2a49dbc1c415b856521c0b4939c8418aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/exploded-aar/com.android.support/design/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ae6d33f37143b08cd8c477c9e348d61ef7ed7eba">
+        <dex dex="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/pre-dexed/debug/com.android.support-design-27.1.1_d55ac1d70a24cbd1c6b351275d15f1ba5cfed12d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/libs/sacklist-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45e23b1be84d70669cb82777543b7f8590374a35">
+        <dex dex="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/pre-dexed/debug/sacklist-1.0.0_0b5f14f758efb6a9f5f27411696c88903f6985b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.14/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7ff77725723167163d69439e3fd077bd0899babf">
+        <dex dex="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-crashlytics-core-2.3.14_61368766a07718fffef6cb47a550502dff341993.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/exploded-aar/android.arch.lifecycle/livedata-core/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-livedata-core-1.1.0_004bec53ffc4667d9962b22302067d42da3b7f3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/exploded-aar/android.arch.lifecycle/viewmodel/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-viewmodel-1.1.0_4297387e4c7a0b2880847d72db0e40c625a3fcba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/exploded-aar/com.android.support/support-v13/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="019d86b31bcd21970d370ca1425cc68ec23f1be7">
+        <dex dex="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/pre-dexed/debug/com.android.support-support-v13-27.1.1_64afc3ed055b759f905b9e10cfb2d3caba8853d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/exploded-aar/com.anthonycr.grant/permissions/1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8d1d93a88af982b2dcc2dca771aaa78bee2772d8">
+        <dex dex="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/pre-dexed/debug/com.anthonycr.grant-permissions-1.0_0ba16e676d6f01fefb3737afacfdefd2c6c73fa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.10/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed6b455e3dd7bbf1ff31f8df0b41e2f0d87f3ace">
+        <dex dex="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-answers-1.3.10_68f48b34f6e9a64e32b21e46850be8cf5c5adc36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ec657bb192b20229696216bf233779b16bf75a54">
+        <dex dex="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-27.1.1_03c34d350a577e56fb71dee4dfffd22f771e5432.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-27.1.1_cc5265f67c64bdf92315b28b3d7973f55bf89fbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4d2b8ad415048e88b41ba4afcaafe36150e69b8c">
+        <dex dex="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-27.1.1_397206b895df1851526e44cf5001481f0209cb7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sreekant/.gradle/caches/modules-2/files-2.1/uk.co.alt236/bluetooth-le-library-android/1.0.0/20509edb81b61be92497cdf8984f343642956c1f/bluetooth-le-library-android-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="20509edb81b61be92497cdf8984f343642956c1f">
+        <dex dex="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/pre-dexed/debug/bluetooth-le-library-android-1.0.0_825656558db6b1b3e2e442e2ab82de8f21751f59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/exploded-aar/android.arch.core/runtime/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/pre-dexed/debug/android.arch.core-runtime-1.1.0_5c2b446ff6a7f8ee6a5821528b8be07b634ef5fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sreekant/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/pre-dexed/debug/common-1.1.0_7ede133826e6ef54ce3eaff17410188c504bf4e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sreekant/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/pre-dexed/debug/support-annotations-27.1.1_793895b585eef9f688ab10670d2464a379a5023f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.14/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
+        <dex dex="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/pre-dexed/debug/io.fabric.sdk.android-fabric-1.3.14_da8e20a65213c52359a0795b7529809f7450ae26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c9a721adcd7dbae7a197b0ef81102336539f63ff">
+        <dex dex="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-27.1.1_70daef6b4eb98858d1b56225ec2ac8dac8269de6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/libs/merge-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="78127b5e2f0a0269e5868f8f3b930928935613f7">
+        <dex dex="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/pre-dexed/debug/merge-1.0.2_8461468f89a547b12402c54601a3625dd5bf1c20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b42cf2134829f715edfa2adaf0ee246631322dba">
+        <dex dex="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-beta-1.2.2_084fa5fc0f45a356c10fea0f4bf5d0a4ef669db4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/exploded-aar/com.android.support/transition/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7038c6d960d3fe26fd41bc509f256c9692d886ce">
+        <dex dex="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/pre-dexed/debug/com.android.support-transition-27.1.1_02a0d68731a986872b3d8509fa0a9d6224551014.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/exploded-aar/com.android.support/preference-v7/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e9fd4f434c262d4fc7b094f515b0d3315996897a">
+        <dex dex="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/pre-dexed/debug/com.android.support-preference-v7-27.1.1_c775cb6d5e5fde2fc82bbb3004ebd8e86fa5e584.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.6.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="02cc9f2e5899415add52bc716602b6b38e7eeb99">
+        <dex dex="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-crashlytics-2.6.5_c21efafa80d9889b491f421e5b5ea4600bada394.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d968b9bd0011800e0d333d1571b8d34bcb8a0b6e">
+        <dex dex="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-27.1.1_0d6b7ee89fa365ba5482948d872a91613bf9dfd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.1.0_f5c68fcfe3f9ec4c17b09f4e1f4e222412b4af1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/exploded-aar/com.github.johnpersano/supertoasts/2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8f30f0d083aa1d28b5fd24626c2449588e15ed70">
+        <dex dex="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/pre-dexed/debug/com.github.johnpersano-supertoasts-2.0_9cb38e209cba412c30df948824643fb909551d6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/exploded-aar/com.android.support/support-fragment/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3304d33470ff64cf83bce9189ff3648a42eb2aa7">
+        <dex dex="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-27.1.1_e05c175a3397f2ba0eba85af24c8d603b2c9bd5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sreekant/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/pre-dexed/debug/common-1.1.0_21cf481234b57bb8b691498e1d5ad37c1c1d5cc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="874f1143c11f5d38533efe512bf913e3e847e7df">
+        <dex dex="/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-27.1.1_c37a4536e54d11a6b6fe8c0dd32e9e3759e0443d.jar" />
+    </item>
+
+</items>

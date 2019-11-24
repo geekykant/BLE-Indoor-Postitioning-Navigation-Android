@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context=".GetAbsoluteLocation">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:layout_alignParentTop="true"
+        app:title="Finding Position..."
+        app:theme="@style/AppTheme.ToolBarStyle" />
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:padding="10dp"
+        android:textSize="16sp"
+        android:text="Connected Device Details: "
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:padding="10dp"
+        android:textSize="16sp"
+        android:id="@+id/bt_device_details"
+        android:text=""
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:padding="10dp"
+        android:id="@+id/bt_device_location"
+        android:textSize="16sp"
+        android:text="Location: "
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        android:background="@color/primary"
+        android:layout_height="150dp">
+
+        <TextView
+            android:padding="10dp"
+            android:layout_alignParentStart="true"
+            android:text="(-2,2,0)"
+            android:textStyle="bold"
+            android:layout_alignParentTop="true"
+            android:layout_width="wrap_content"
+            android:textColor="@color/white"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:src="@android:drawable/ic_input_add"
+            android:layout_centerInParent="true"
+            android:tint="@color/md_red_50"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_centerInParent="true"
+            android:background="@color/black"
+            android:tint="@color/md_grey_700"
+            android:layout_height="1dp" />
+
+        <ImageView
+            android:layout_width="1dp"
+            android:layout_centerInParent="true"
+            android:background="@color/black"
+            android:tint="@color/md_grey_700"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:padding="10dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:textColor="@color/white"
+            android:text="(2,2,0)"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:padding="10dp"
+            android:layout_alignParentBottom="true"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:layout_centerHorizontal="true"
+            android:text="(2,-2,0)"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </RelativeLayout>
+
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:padding="10dp"
+        android:gravity="center_horizontal"
+        android:textSize="19sp"
+        android:text="Your Location: "
+        android:textAllCaps="true"
+        android:textStyle="bold"
+        android:textColor="@color/primary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:padding="10dp"
+        android:gravity="center_horizontal"
+        android:id="@+id/answer"
+        android:textSize="18sp"
+        android:text=""
+        android:textAllCaps="true"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
