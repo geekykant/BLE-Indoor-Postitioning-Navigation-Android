@@ -1,9 +1,23 @@
-# Beacon Scanner App
-Sample Service App for Bluetooth LE Scanner
+## Beacon Indoor Navigation Scanner
+
+We have prototyped an **Indoor navigation system using beacons**, localising to accuracy of 1 meters in a room. Bleutooth Low Energy beacons provide useful in cases of navigating a user easily in commercial buildings like shopping malls and airports.
+
+### Downloads - [Project Report](https://drive.google.com/file/d/1uvf1uUib5PyLKaXXHrbsPJoF0bfdluPQ/view?usp=sharing) / [Slides](https://docs.google.com/presentation/d/187OduFkGIvNpD2OsOlrvrTgP6FQvTOP1CiWbhYoGEjU/edit?usp=sharing)
 
 ## Description
-- This application will start a Service to scan for Beacons through an ASyncTask. 
-- The Service will then reschedule itself for future runs and will unregister once the maximum number of runs have been reached or the application is paused through the MainActivity's onPause() method.
+- This application uses android class **BluetoothManager**, as a Service to scan for nearby beacons (Bluetooth devices) through an AsyncTask. 
+- The service reschedule itself for future runs, in between pauses and also will unregister once the maximum number of runs have been reached.
+
+<img src="https://i.imgur.com/UI1yBqv.png" width="300px"><img width="30px"><img src="https://i.imgur.com/noSL76D.png" height="569px">
+
+## Design Architecture
+
+<img src="https://i.imgur.com/H03qszf.png" width="750px">
+
+## Team
+- [@thameemk612](https://github.com/thameemk612)
+- [@sid03](https://www.linkedin.com/in/sidheesh-nair-03859516a/)
+- [Nakul Pramod](https://www.linkedin.com/in/nakul-s-pramod-6ba2041a0/)
 
 ## Dependencies
 
