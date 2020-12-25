@@ -22,4 +22,5 @@ We have prototyped an **Indoor navigation system using beacons**, localising to 
 ## Dependencies
 
 This is intended to be used in conjunction with  "Bluetooth Library for Android" library project which can be found here:
+
 https://github.com/MikeFot/Android--Beacon-Scanner-Service
