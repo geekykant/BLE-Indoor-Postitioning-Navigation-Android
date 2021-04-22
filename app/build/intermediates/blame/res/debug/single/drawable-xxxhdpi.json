@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/sreekant/AndroidStudioProjects/BLE-Indoor-Postitioning-Navigation-Android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_done_black_24dp.png",
+        "source": "/Users/sreekant/AndroidStudioProjects/BLE-Indoor-Postitioning-Navigation-Android/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_done_black_24dp.png"
+    },
+    {
         "merged": "/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_done_black_24dp.png",
         "source": "/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_done_black_24dp.png"
     }

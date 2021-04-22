@@ -6,5 +6,13 @@
     {
         "merged": "/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/res/merged/debug/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
         "source": "/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/sreekant/AndroidStudioProjects/BLE-Indoor-Postitioning-Navigation-Android/app/build/intermediates/res/merged/debug/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/sreekant/AndroidStudioProjects/BLE-Indoor-Postitioning-Navigation-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/sreekant/AndroidStudioProjects/BLE-Indoor-Postitioning-Navigation-Android/app/build/intermediates/res/merged/debug/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/sreekant/AndroidStudioProjects/BLE-Indoor-Postitioning-Navigation-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
     }
 ]

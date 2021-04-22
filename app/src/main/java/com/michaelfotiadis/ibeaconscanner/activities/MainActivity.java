@@ -1,10 +1,14 @@
 package com.michaelfotiadis.ibeaconscanner.activities;
 
+import android.Manifest;
+import android.app.AlertDialog;
 import android.content.BroadcastReceiver;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.IntentFilter;
 import android.content.SharedPreferences;
+import android.location.LocationManager;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.support.v7.widget.SwitchCompat;
@@ -57,6 +61,9 @@ public class MainActivity extends BaseActivity implements OnChildClickListener, 
     private SharedPreferences mSharedPrefs;
     private CharSequence mTextViewContents;
 
+    private static final int PERMISSION_REQUEST_FINE_LOCATION = 1;
+    private static final int PERMISSION_REQUEST_BACKGROUND_LOCATION = 2;
+
     public class ResponseReceiver extends BroadcastReceiver {
         private final String TAG = ResponseReceiver.class.getSimpleName();
 
@@ -87,13 +94,34 @@ public class MainActivity extends BaseActivity implements OnChildClickListener, 
 
     public void onCheckedChanged(final CompoundButton compoundButton, boolean z) {
         if (z) {
-            PermissionsManager.getInstance().requestPermissionsIfNecessaryForResult(this, new String[]{"android.permission.ACCESS_COARSE_LOCATION"}, new PermissionsResultAction() {
+            PermissionsManager.getInstance().requestPermissionsIfNecessaryForResult(this, new String[]{"android.permission.ACCESS_COARSE_LOCATION",
+                    Manifest.permission.BLUETOOTH, Manifest.permission.BLUETOOTH_ADMIN, Manifest.permission.ACCESS_BACKGROUND_LOCATION, Manifest.permission.ACCESS_FINE_LOCATION}, new PermissionsResultAction() {
                 public void onGranted() {
                     if (!MainActivity.this.mBluetoothHelper.isBluetoothLeSupported()) {
                         MainActivity mainActivity = MainActivity.this;
                         ToastUtils.makeWarningToast(mainActivity, mainActivity.getString(R.string.toast_no_le));
                         compoundButton.setChecked(false);
                     } else if (MainActivity.this.mBluetoothHelper.isBluetoothOn()) {
+                        final LocationManager manager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
+
+                        if (!manager.isProviderEnabled(LocationManager.GPS_PROVIDER)) {
+                            final AlertDialog.Builder builder = new AlertDialog.Builder(MainActivity.this);
+                            builder.setMessage("Your GPS seems to be disabled, do you want to enable it?")
+                                    .setCancelable(false)
+                                    .setPositiveButton("Yes", new DialogInterface.OnClickListener() {
+                                        public void onClick(final DialogInterface dialog, final int id) {
+                                            startActivity(new Intent(android.provider.Settings.ACTION_LOCATION_SOURCE_SETTINGS));
+                                        }
+                                    })
+                                    .setNegativeButton("No", new DialogInterface.OnClickListener() {
+                                        public void onClick(final DialogInterface dialog, final int id) {
+                                            dialog.cancel();
+                                        }
+                                    });
+                            builder.create().show();
+                            return;
+                        }
+
                         MainActivity.this.serviceToggle();
                     } else {
                         ScanHelper.cancelService(MainActivity.this);
@@ -133,6 +161,7 @@ public class MainActivity extends BaseActivity implements OnChildClickListener, 
     public void onCreate(Bundle bundle) {
         super.onCreate(bundle);
         setTitle(getString(R.string.app_name));
+
         this.bl_list = new ArrayList();
         findViewById(R.id.finalFab).setOnClickListener(new OnClickListener() {
             public void onClick(View view) {

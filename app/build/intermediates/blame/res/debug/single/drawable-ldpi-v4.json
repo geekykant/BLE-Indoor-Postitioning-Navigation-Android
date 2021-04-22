@@ -2,5 +2,9 @@
     {
         "merged": "/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_arrow_down_24dp.png",
         "source": "/Users/sreekant/AndroidStudioProjects/Android--Beacon-Scanner-Service/app/build/intermediates/exploded-aar/com.android.support/preference-v7/27.1.1/res/drawable-ldpi-v4/ic_arrow_down_24dp.png"
+    },
+    {
+        "merged": "/Users/sreekant/AndroidStudioProjects/BLE-Indoor-Postitioning-Navigation-Android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_arrow_down_24dp.png",
+        "source": "/Users/sreekant/AndroidStudioProjects/BLE-Indoor-Postitioning-Navigation-Android/app/build/intermediates/exploded-aar/com.android.support/preference-v7/27.1.1/res/drawable-ldpi-v4/ic_arrow_down_24dp.png"
     }
 ]
